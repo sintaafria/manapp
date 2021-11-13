@@ -1,0 +1,24 @@
+{
+  "name": "manapp",
+  "version": "1.0.0",
+  "description": "aplikasi ejournal MAN 1 Pekanbaru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sintaafria/manapp.git"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "sinta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sintaafria/manapp/issues"
+  },
+  "homepage": "https://github.com/sintaafria/manapp#readme"
+}
